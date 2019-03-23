@@ -5,7 +5,7 @@ Faithlife hosts many open source projects on GitHub.
 
 * [Faithlife on GitHub](https://github.com/Faithlife)
 * About [Faithlife Corporation](https://faithlife.com/about)
-* Love to code? [We're hiring!](https://faithlife.com/jobs/SoftwareDeveloper).
+* Love to code? [We're hiring!](https://faithlife.com/jobs/SoftwareDeveloper)
 * [Faithlife Code Blog](http://faithlife.codes/blog/)
 * [Faithlife Coding Guidelines](https://github.com/Faithlife/CodingGuidelines)
 
