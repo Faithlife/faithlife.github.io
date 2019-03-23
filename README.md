@@ -1,2 +1,1 @@
-# faithlife.github.io
-Website source code.
+### https://faithlife.github.io/
