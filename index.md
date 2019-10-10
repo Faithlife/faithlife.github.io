@@ -16,6 +16,7 @@ Our .NET libraries and tools are [available on NuGet](https://www.nuget.org/prof
 * [Faithlife.Analyzers](https://github.com/Faithlife/FaithlifeAnalyzers)
 * [Faithlife.ApiDiffTools](https://github.com/Faithlife/FaithlifeApiDiffTools)
 * [Faithlife.Build](https://faithlife.github.io/FaithlifeBuild/)
+* [Faithlife.Data](https://faithlife.github.io/FaithlifeData/)
 * [Faithlife.Diff](https://faithlife.github.io/FaithlifeDiff/)
 * [Faithlife.DockerShim](https://faithlife.github.io/FaithlifeDockerShim/)
 * [Faithlife.FindReplaceCode.Tool](https://github.com/Faithlife/FindReplaceCode)
