@@ -19,6 +19,7 @@ Our .NET libraries and tools are [available on NuGet](https://www.nuget.org/prof
 * [Faithlife.Data](https://faithlife.github.io/FaithlifeData/)
 * [Faithlife.Diff](https://faithlife.github.io/FaithlifeDiff/)
 * [Faithlife.DockerShim](https://faithlife.github.io/FaithlifeDockerShim/)
+* [Faithlife.FakeData](https://faithlife.github.io/FaithlifeFakeData/)
 * [Faithlife.FindReplaceCode.Tool](https://github.com/Faithlife/FindReplaceCode)
 * [Faithlife.Globalization](https://faithlife.github.io/FaithlifeGlobalization/)
 * [Faithlife.Json](https://faithlife.github.io/FaithlifeJson/)
@@ -29,3 +30,4 @@ Our .NET libraries and tools are [available on NuGet](https://www.nuget.org/prof
 * [Faithlife.System.Data.SQLite](https://github.com/Faithlife/System.Data.SQLite)
 * [Faithlife.Utility](https://faithlife.github.io/FaithlifeUtility/)
 * [Faithlife.WebRequests](https://faithlife.github.io/FaithlifeWebRequests/)
+* [SimpleDataflows](https://faithlife.github.io/SimpleDataflows/)
